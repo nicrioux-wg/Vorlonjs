@@ -7,7 +7,7 @@
     "activateAuth": false,
     "username": "",
     "password": "",
-    "host": "0.0.0.0",
+    "host": "vorlon1.azurewebsites.net",
     "port": 1337,
     "socket": "",
     "enableWebproxy": true,
