@@ -1,5 +1,5 @@
 {
-    "baseURL": "vorlon1.azurewebsites.net",
+    "baseURL": "",
     "useSSLAzure": true,
     "useSSL": true,
     "SSLkey": "cert/server.key",
